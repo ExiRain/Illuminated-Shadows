@@ -1,3 +1,7 @@
 [gd_scene format=3]
 
-[node name="Main" type="Node2D"]
+[ext_resource type="PackedScene" path="res://scenes/levels/castle.tscn" id="1_o5qli"]
+
+[node name="Main" type="Node2D" unique_id=621692205]
+
+[node name="Castle" parent="." unique_id=973709414 instance=ExtResource("1_o5qli")]
