@@ -18,6 +18,6 @@
 - Comments: none unless I ask.
 
 ## Verify before saying "done"
-- Run Godot headless: `"C:\Users\ExiledR\Desktop\Godot_v4.7.2-stable_win64.exe" --headless --path . --quit-after 120` must show no errors.
+- Run Godot headless: `"C:\GODOT E\Godot_v4.7.2-stable_win64_console.exe" --headless --path . --quit-after 120` must show no errors.
 - Run the code-review skill on the change.
 - Small commits with clear messages. Never commit `.godot/`, builds, or recordings. Art/audio go through Git LFS.
