@@ -1,0 +1,24 @@
+# Godot 4
+.godot/
+/android/
+
+# Exports and builds
+/build/
+/export/
+*.exe
+*.pck
+*.zip
+*.x86_64
+*.apk
+export_credentials.cfg
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Raw footage and recordings never go in the repo
+/recordings/
